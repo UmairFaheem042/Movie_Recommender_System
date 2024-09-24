@@ -15,3 +15,7 @@ The dataset used in this project is from kaggle consisting of movie details. It 
 ### Clone the repository:
    ```bash
    git clone https://github.com/UmairFaheem042/Movie_Recommender_System.git
+   ```
+## Screenshots
+![Screenshot 2024-09-24 225943](https://github.com/user-attachments/assets/e9caa73b-62c6-4d65-8f56-a2379a744564)
+![Screenshot 2024-09-24 230004](https://github.com/user-attachments/assets/1968e6cc-4667-4174-bd62-150e827da056)
