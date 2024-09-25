@@ -12,10 +12,15 @@ This project is part of CampusX's Machine Learning Project Playlist on YouTube. 
 
 The dataset used in this project is from kaggle consisting of movie details. It is stored in a `.pkl` file format for efficient loading and processing.
 
-### Clone the repository:
-   ```bash
-   git clone https://github.com/UmairFaheem042/Movie_Recommender_System.git
-   ```
+## How to implement this your system?
+
+### 1. Clone the repository: git clone ```https://github.com/UmairFaheem042/Movie_Recommender_System.git```
+
+### 2. Open ``` recommender_system.ipynb ``` in Jupyter or VSCode
+
+### 3. Open ``` app.py ``` file and in terminal type ```streamlit run app.py```
+
+
 ## Screenshots
 ![Screenshot 2024-09-24 225943](https://github.com/user-attachments/assets/e9caa73b-62c6-4d65-8f56-a2379a744564)
 ![Screenshot 2024-09-24 230004](https://github.com/user-attachments/assets/1968e6cc-4667-4174-bd62-150e827da056)
